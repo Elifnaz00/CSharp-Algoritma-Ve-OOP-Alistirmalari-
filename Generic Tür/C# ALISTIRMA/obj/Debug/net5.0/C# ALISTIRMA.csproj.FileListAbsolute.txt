@@ -1,0 +1,15 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\bin\Debug\net5.0\C# ALISTIRMA.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\bin\Debug\net5.0\C# ALISTIRMA.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\bin\Debug\net5.0\C# ALISTIRMA.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\bin\Debug\net5.0\C# ALISTIRMA.runtimeconfig.dev.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\bin\Debug\net5.0\C# ALISTIRMA.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\bin\Debug\net5.0\C# ALISTIRMA.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\C# ALISTIRMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\C# ALISTIRMA.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\C# ALISTIRMA.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\C# ALISTIRMA.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\C# ALISTIRMA.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\refint\C# ALISTIRMA.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\C# ALISTIRMA.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\C# ALISTIRMA.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# ALISTIRMA\C# ALISTIRMA\obj\Debug\net5.0\ref\C# ALISTIRMA.dll

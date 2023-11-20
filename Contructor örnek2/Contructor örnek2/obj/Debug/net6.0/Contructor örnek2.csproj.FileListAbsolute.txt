@@ -1,0 +1,14 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\bin\Debug\net6.0\Contructor örnek2.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\bin\Debug\net6.0\Contructor örnek2.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\bin\Debug\net6.0\Contructor örnek2.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\bin\Debug\net6.0\Contructor örnek2.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\bin\Debug\net6.0\Contructor örnek2.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\Contructor örnek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\Contructor örnek2.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\Contructor örnek2.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\Contructor örnek2.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\Contructor örnek2.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\refint\Contructor örnek2.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\Contructor örnek2.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\Contructor örnek2.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Contructor örnek2\Contructor örnek2\obj\Debug\net6.0\ref\Contructor örnek2.dll

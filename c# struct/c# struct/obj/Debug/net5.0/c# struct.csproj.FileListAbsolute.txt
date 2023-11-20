@@ -1,0 +1,15 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\bin\Debug\net5.0\c# struct.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\bin\Debug\net5.0\c# struct.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\bin\Debug\net5.0\c# struct.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\bin\Debug\net5.0\c# struct.runtimeconfig.dev.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\bin\Debug\net5.0\c# struct.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\bin\Debug\net5.0\c# struct.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\c# struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\c# struct.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\c# struct.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\c# struct.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\c# struct.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\refint\c# struct.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\c# struct.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\c# struct.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# struct\c# struct\obj\Debug\net5.0\ref\c# struct.dll

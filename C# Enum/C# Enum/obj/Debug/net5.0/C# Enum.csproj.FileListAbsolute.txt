@@ -1,0 +1,15 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\bin\Debug\net5.0\C# Enum.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\bin\Debug\net5.0\C# Enum.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\bin\Debug\net5.0\C# Enum.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\bin\Debug\net5.0\C# Enum.runtimeconfig.dev.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\bin\Debug\net5.0\C# Enum.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\bin\Debug\net5.0\C# Enum.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\C# Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\C# Enum.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\C# Enum.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\C# Enum.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\C# Enum.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\refint\C# Enum.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\C# Enum.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\C# Enum.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\C# Enum\C# Enum\obj\Debug\net5.0\ref\C# Enum.dll

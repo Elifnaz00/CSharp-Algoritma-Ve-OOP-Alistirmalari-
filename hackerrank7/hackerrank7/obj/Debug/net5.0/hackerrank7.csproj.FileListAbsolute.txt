@@ -1,0 +1,15 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\bin\Debug\net5.0\hackerrank7.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\bin\Debug\net5.0\hackerrank7.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\bin\Debug\net5.0\hackerrank7.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\bin\Debug\net5.0\hackerrank7.runtimeconfig.dev.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\bin\Debug\net5.0\hackerrank7.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\bin\Debug\net5.0\hackerrank7.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\hackerrank7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\hackerrank7.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\hackerrank7.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\hackerrank7.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\hackerrank7.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\refint\hackerrank7.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\hackerrank7.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\hackerrank7.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\hackerrank7\hackerrank7\obj\Debug\net5.0\ref\hackerrank7.dll

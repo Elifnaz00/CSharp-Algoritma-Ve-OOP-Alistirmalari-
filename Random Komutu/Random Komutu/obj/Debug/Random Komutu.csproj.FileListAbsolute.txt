@@ -1,0 +1,10 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\bin\Debug\Random Komutu.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\bin\Debug\Random Komutu.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\bin\Debug\Random Komutu.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\obj\Debug\Random Komutu.csproj.AssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\obj\Debug\Random_Komutu.Form1.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\obj\Debug\Random_Komutu.Properties.Resources.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\obj\Debug\Random Komutu.csproj.GenerateResource.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\obj\Debug\Random Komutu.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\obj\Debug\Random Komutu.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Random Komutu\Random Komutu\obj\Debug\Random Komutu.pdb

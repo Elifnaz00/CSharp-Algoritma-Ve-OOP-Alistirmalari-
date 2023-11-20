@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Contructor örnek2/1.0.0": {
+        "runtime": {
+          "Contructor örnek2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contructor örnek2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

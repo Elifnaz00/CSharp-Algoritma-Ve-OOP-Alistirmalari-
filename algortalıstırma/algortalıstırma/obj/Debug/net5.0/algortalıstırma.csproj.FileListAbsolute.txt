@@ -1,0 +1,15 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\bin\Debug\net5.0\algortalıstırma.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\bin\Debug\net5.0\algortalıstırma.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\bin\Debug\net5.0\algortalıstırma.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\bin\Debug\net5.0\algortalıstırma.runtimeconfig.dev.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\bin\Debug\net5.0\algortalıstırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\bin\Debug\net5.0\algortalıstırma.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\algortalıstırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\algortalıstırma.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\algortalıstırma.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\algortalıstırma.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\algortalıstırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\refint\algortalıstırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\algortalıstırma.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\algortalıstırma.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\algortalıstırma\algortalıstırma\obj\Debug\net5.0\ref\algortalıstırma.dll

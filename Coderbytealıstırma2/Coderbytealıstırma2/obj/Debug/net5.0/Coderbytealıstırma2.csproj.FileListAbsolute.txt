@@ -1,0 +1,15 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\bin\Debug\net5.0\Coderbytealıstırma2.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\bin\Debug\net5.0\Coderbytealıstırma2.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\bin\Debug\net5.0\Coderbytealıstırma2.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\bin\Debug\net5.0\Coderbytealıstırma2.runtimeconfig.dev.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\bin\Debug\net5.0\Coderbytealıstırma2.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\bin\Debug\net5.0\Coderbytealıstırma2.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\Coderbytealıstırma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\Coderbytealıstırma2.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\Coderbytealıstırma2.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\Coderbytealıstırma2.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\Coderbytealıstırma2.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\refint\Coderbytealıstırma2.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\Coderbytealıstırma2.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\Coderbytealıstırma2.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Coderbytealıstırma2\Coderbytealıstırma2\obj\Debug\net5.0\ref\Coderbytealıstırma2.dll

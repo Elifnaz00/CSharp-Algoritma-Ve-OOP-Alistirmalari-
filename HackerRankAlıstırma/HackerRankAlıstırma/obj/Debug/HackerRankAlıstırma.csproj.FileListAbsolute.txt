@@ -1,0 +1,7 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\HackerRankAlıstırma\HackerRankAlıstırma\bin\Debug\HackerRankAlıstırma.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\HackerRankAlıstırma\HackerRankAlıstırma\bin\Debug\HackerRankAlıstırma.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\HackerRankAlıstırma\HackerRankAlıstırma\bin\Debug\HackerRankAlıstırma.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\HackerRankAlıstırma\HackerRankAlıstırma\obj\Debug\HackerRankAlıstırma.csproj.AssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\HackerRankAlıstırma\HackerRankAlıstırma\obj\Debug\HackerRankAlıstırma.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\HackerRankAlıstırma\HackerRankAlıstırma\obj\Debug\HackerRankAlıstırma.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\HackerRankAlıstırma\HackerRankAlıstırma\obj\Debug\HackerRankAlıstırma.pdb

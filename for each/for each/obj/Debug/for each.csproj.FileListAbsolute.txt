@@ -1,0 +1,10 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\bin\Debug\for each.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\bin\Debug\for each.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\bin\Debug\for each.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\obj\Debug\for each.csproj.AssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\obj\Debug\for_each.Form1.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\obj\Debug\for_each.Properties.Resources.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\obj\Debug\for each.csproj.GenerateResource.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\obj\Debug\for each.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\obj\Debug\for each.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\for each\for each\obj\Debug\for each.pdb

@@ -1,0 +1,10 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Form1.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Properties.Resources.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.GenerateResource.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

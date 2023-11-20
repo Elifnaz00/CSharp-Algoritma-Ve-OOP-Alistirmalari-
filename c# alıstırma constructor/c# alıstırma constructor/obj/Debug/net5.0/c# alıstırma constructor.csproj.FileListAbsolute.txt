@@ -1,0 +1,15 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\bin\Debug\net5.0\c# alıstırma constructor.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\bin\Debug\net5.0\c# alıstırma constructor.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\bin\Debug\net5.0\c# alıstırma constructor.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\bin\Debug\net5.0\c# alıstırma constructor.runtimeconfig.dev.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\bin\Debug\net5.0\c# alıstırma constructor.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\bin\Debug\net5.0\c# alıstırma constructor.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\c# alıstırma constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\c# alıstırma constructor.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\c# alıstırma constructor.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\c# alıstırma constructor.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\c# alıstırma constructor.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\refint\c# alıstırma constructor.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\c# alıstırma constructor.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\c# alıstırma constructor.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\c# alıstırma constructor\c# alıstırma constructor\obj\Debug\net5.0\ref\c# alıstırma constructor.dll

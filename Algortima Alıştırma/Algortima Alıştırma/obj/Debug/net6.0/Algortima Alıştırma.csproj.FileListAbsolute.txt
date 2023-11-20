@@ -1,0 +1,14 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\bin\Debug\net6.0\Algortima Alıştırma.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\bin\Debug\net6.0\Algortima Alıştırma.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\bin\Debug\net6.0\Algortima Alıştırma.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\bin\Debug\net6.0\Algortima Alıştırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\bin\Debug\net6.0\Algortima Alıştırma.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\Algortima Alıştırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\Algortima Alıştırma.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\Algortima Alıştırma.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\Algortima Alıştırma.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\Algortima Alıştırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\refint\Algortima Alıştırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\Algortima Alıştırma.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\Algortima Alıştırma.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Algortima Alıştırma\Algortima Alıştırma\obj\Debug\net6.0\ref\Algortima Alıştırma.dll

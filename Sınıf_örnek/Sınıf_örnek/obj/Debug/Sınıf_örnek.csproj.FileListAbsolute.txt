@@ -1,0 +1,11 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\bin\Debug\Sınıf_örnek.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\bin\Debug\Sınıf_örnek.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\bin\Debug\Sınıf_örnek.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\obj\Debug\Sınıf_örnek.csproj.AssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\obj\Debug\Sınıf_örnek.Form1.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\obj\Debug\Sınıf_örnek.Form2.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\obj\Debug\Sınıf_örnek.Properties.Resources.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\obj\Debug\Sınıf_örnek.csproj.GenerateResource.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\obj\Debug\Sınıf_örnek.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\obj\Debug\Sınıf_örnek.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Sınıf_örnek\Sınıf_örnek\obj\Debug\Sınıf_örnek.pdb

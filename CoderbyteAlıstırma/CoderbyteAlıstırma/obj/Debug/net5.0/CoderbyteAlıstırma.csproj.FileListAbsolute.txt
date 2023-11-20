@@ -1,0 +1,15 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\CoderbyteAlıstırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\CoderbyteAlıstırma.AssemblyInfoInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\CoderbyteAlıstırma.AssemblyInfo.cs
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\CoderbyteAlıstırma.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\bin\Debug\net5.0\CoderbyteAlıstırma.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\bin\Debug\net5.0\CoderbyteAlıstırma.deps.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\bin\Debug\net5.0\CoderbyteAlıstırma.runtimeconfig.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\bin\Debug\net5.0\CoderbyteAlıstırma.runtimeconfig.dev.json
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\bin\Debug\net5.0\CoderbyteAlıstırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\bin\Debug\net5.0\CoderbyteAlıstırma.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\CoderbyteAlıstırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\refint\CoderbyteAlıstırma.dll
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\CoderbyteAlıstırma.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\CoderbyteAlıstırma.genruntimeconfig.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\CoderbyteAlıstırma\CoderbyteAlıstırma\obj\Debug\net5.0\ref\CoderbyteAlıstırma.dll
